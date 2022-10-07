@@ -5,4 +5,4 @@ def add(x, y):
 
 
 print(add(1, 1))
-print("GCP rules")
+print("AWS rules")
